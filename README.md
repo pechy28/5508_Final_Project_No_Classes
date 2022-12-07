@@ -1,6 +1,11 @@
 # 5508_Final_Project_No_Classes
 My final project for DIG 5508
 
+GITHUB LINK:
+---------------------
+https://github.com/pechy28/5508_Final_Project_No_Classes
+
+
 NOTES:
 ---------------------
 This project works best in the p5.js web editor, but any will work so long as you have p5.play added to your editor.
