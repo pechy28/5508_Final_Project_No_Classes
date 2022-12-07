@@ -7,9 +7,9 @@ This project works best in the p5.js web editor, but any will work so long as yo
 
 CONTROLS:
 ----------------------
-Left Arrow: Go Left
-Right Arrow: Go Right
-Up Arrow: Jump
+Left Arrow: Go Left;
+Right Arrow: Go Right;
+Up Arrow: Jump;
 
 
 DIRECTIONS:
